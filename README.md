@@ -65,7 +65,7 @@ Download or clone the repository and open `index.html` in any browser. No build 
 1. Go to **Settings > Pages** in this repository.
 2. Under **Source**, choose **Deploy from a branch**.
 3. Select the `main` branch and the `/ (root)` folder, then save.
-4. The page will be live at `https://<your-username>.github.io/<repository-name>/` within a few minutes.
+4. The page will be live at `https://easyhealthylifestyle.github.io/nubest-womens-multi/` within a few minutes.
 
 ## Safety information
 
